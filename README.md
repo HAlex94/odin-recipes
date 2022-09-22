@@ -1,5 +1,5 @@
 # odin-recipes
-In this project, I put together a simple HTML based websitie with some recipies of some of my favorite foods. Enjoy!
+In this project, I put together a simple HTML based website with some recipies of my favorite foods. Enjoy!
 
 **Skills Learned**
 * Structure of a basic HTML script
